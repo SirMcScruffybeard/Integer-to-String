@@ -51,7 +51,7 @@ public class IntToString {
 	public String toString(int inNum) {
 
 		
-		return String.valueOf(inNum);
+		return new StringBuilder().append(inNum).toString();
 		
 	}
 	
