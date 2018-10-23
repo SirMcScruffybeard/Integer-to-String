@@ -72,7 +72,7 @@ public class IntToString {
 	
 	public void close() {
 		
-		String closePrompt = "Press any button to close";
+		String closePrompt = "Press any button to close.";
 		
 		this.display(closePrompt);
 		
