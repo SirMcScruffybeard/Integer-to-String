@@ -3,7 +3,7 @@ public class Launcher {
 
 	public static void main(String[] args) {
 		
-		IntToString intToString = new IntToString();
+		IntToString intToString = new IntToString(); 
 		
 		intToString.promptUser();
 		
