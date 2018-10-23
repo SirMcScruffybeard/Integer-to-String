@@ -43,7 +43,7 @@ public class IntToString {
 	
 	public void promptUser() {
 		
-		String prompt = "Type in an integer";
+		String prompt = "Type an integer.";
 		
 		display(prompt);
 	}
